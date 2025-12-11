@@ -35,3 +35,13 @@ Vi kan bruke Google sin Teachable Machine [https://teachablemachine.withgoogle.c
 Hvordan bruke Teachable Machine for å trene en KI modell med egne bilder: [https://youtu.be/ie9d9VUnKAc](https://youtu.be/ie9d9VUnKAc)
 
 Hvordan opprette et virtuelt kjøremiljø lokalt på maskinen i Visual Studio Code: [https://youtu.be/Sk4vXDUb2UI](https://youtu.be/Sk4vXDUb2UI)
+
+## Oppgave 3 - OpenCV og ansiktgjenkjenning i bilder
+Bruk OpenCV og haarcascades til å gjenkjenne objekter i et bilde.
+
+- Ta utgangspunkt i notebooken git_code/Pythonkurs - 02 - Tirsdag - Bildebehandling.ipynb
+- Finn et egnet bilde og se om du greier å detektere andre features, f.eks munn / øyner.
+
+Her er en video som gir en gjennomgang av temaet: https://youtu.be/TG6PRETpaJI
+Her er en video som viser hvordan du kan laste opp filene du trenger i Google Colab: https://youtu.be/G86TFkQh3nk
+Dere finner flere trente haarcascade set her https://github.com/opencv/opencv/tree/master/data/haarcascades
